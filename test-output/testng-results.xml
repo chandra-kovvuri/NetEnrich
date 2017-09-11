@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="104191" started-at="2017-09-10T14:35:30Z" finished-at="2017-09-10T14:37:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="104191" started-at="2017-09-10T14:35:30Z" finished-at="2017-09-10T14:37:14Z">
+      <class name="IBMSampleTests.SampleTestNG">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:IBMSampleTests.SampleTestNG@57baeedf]" name="OpenBrowser" is-config="true" duration-ms="15503" started-at="2017-09-10T07:35:30Z" finished-at="2017-09-10T07:35:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="f()[pri:0, instance:IBMSampleTests.SampleTestNG@57baeedf]" name="f" duration-ms="88555" started-at="2017-09-10T07:35:45Z" finished-at="2017-09-10T07:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:IBMSampleTests.SampleTestNG@57baeedf]" name="closeBrowser" is-config="true" duration-ms="5" started-at="2017-09-10T07:37:14Z" finished-at="2017-09-10T07:37:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- IBMSampleTests.SampleTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
